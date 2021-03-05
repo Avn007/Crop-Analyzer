@@ -1,1 +1,1 @@
-# Crop-detect
+# Crop-Analyzer app
